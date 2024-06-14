@@ -1,0 +1,11 @@
+/*
+  FullCalendar Core CSS
+  https://fullcalendar.io/
+*/
+
+.fc {
+  direction: ltr;
+  text-align: left;
+}
+
+/* etc. */
