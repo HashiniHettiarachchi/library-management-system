@@ -29,3 +29,5 @@ Search and Browse Functionality:
 - HTML
 - CSS
 - PHP
+- javascript
+- Bootstrap
